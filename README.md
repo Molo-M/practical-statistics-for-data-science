@@ -1,4 +1,4 @@
-## 🎓 Learning Stats the Hard (and Fun) Way
+## 🎓 Learning Statistics the Hard (and Fun) Way
 
 Welcome! This repo is my personal journey through the book *Practical Statistics for Data Scientists*. I'm working through the chapters one by one, writing code, answering quiz questions, and doing mini-projects to really understand the material—not just read it.
 
